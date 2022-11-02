@@ -1,0 +1,30 @@
+{
+  "name": "rish-next-router-handler",
+  "version": "6.30.2",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "algoliasearch": "^4.14.0",
+    "dequal": "2.0.3",
+    "instantsearch.css": "7.4.5",
+    "next": "12.1.5",
+    "react": "^17.0.2",
+    "react-dom": "17.0.2",
+    "react-instantsearch-hooks-server": "^6.30.2",
+    "react-instantsearch-hooks-web": "^6.30.2"
+  },
+  "devDependencies": {
+    "@types/node": "17.0.25",
+    "@types/react": "17.0.39",
+    "eslint": "8.4.0",
+    "eslint-config-next": "12.0.7",
+    "typescript": "4.5.4"
+  },
+  "keywords": [],
+  "description": "Making React InstantSearch Hooks routing and Next.js play well together"
+}

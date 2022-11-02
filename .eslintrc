@@ -1,5 +1,5 @@
 {
-  "extends": ["plugin:@next/next/recommended"],
+  "extends": ["next"],
   "rules": {
     // This rule is not able to find the `pages/` folder in the monorepo.
     "@next/next/no-html-link-for-pages": ["off"],
